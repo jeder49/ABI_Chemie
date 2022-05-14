@@ -1,0 +1,110 @@
+Chemie Fachbegriffe:
+
+Q1:
+alkalimetalle 						 - 
+erdalkalimetalle					 - 
+halogene 							 - 
+Alkane								 - 
+Alkene								 - 
+Van-der-Waals-Kräfte				 - 
+Schmelztemperatur					 - 
+Siedetemperatur						 - 
+Löslichkeit							 - 
+radikale substitution				 - 
+elektrophile Addition				 - 
+cis-trans-Isomerie					 - 
+induktive Effekte					 - 
+Alkanole							 - 
+Dipol-Dipol-Wechselwirkung			 - 
+Wasserstoffbrücken					 - 
+nucleophile Substitution			 - 
+Hydroxidion							 - 
+Halogenalkanen						 - 
+mehrwerige Alkanole					 - 
+Alkanale							 - 
+Ketogruppe							 - 
+sterische Effekte					 - 
+Carbonsäure							 - 
+Acidität							 - 
+polare Bindungen					 - 
+Mesomeriemodell						 - 
+Monocarbonsäure						 - 
+Hydroxysäuren						 - 
+Aminosäuren							 - 
+carbonsäureester					 - 
+Di- und Tricarbonsäuren				 - 
+Hybridisierung						 - 
+Seife								 - 
+alkalische Hydrolyse				 - 
+Emulgator							 - 
+pH-Wert								 - 
+dispergiervermögen					 - 
+Micellbildung						 - 
+Kalkseife							 - 
+
+Q2:
+Monosaccharide						 - 
+Glucose								 - 
+Fructose							 - 
+Chiraleszentrum						 - 
+D-/L-Konfuguration					 - 
+Enantiomere							 - 
+Stereoisomerie						 - 
+Anomere 							 - 
+Fehling-Probe						 - 
+Di-, Polysaccheriede				 - 
+Maltose								 - 
+Saccharose							 - 
+Stärke								 - 
+Cellolose							 - 
+glycosidische Bindung 				 - 
+Disacchariede						 - 
+Aminosäure 							 - 
+Zwitterion							 - 
+Peptide								 - 
+kohlenhydrate						 - 
+Keto-Enol-Tautomerie				 - 
+Diasterimere						 - 
+isoelektrischer Punkt				 - 
+Disulfidbrücken						 - 
+Kunststoff							 - 
+Duroplaste							 - 
+Thermoplaste 						 - 
+Elastomere							 - 
+Markomolekühle						 - 
+Polykondensation					 - 
+radikalische Polymerisation			 - 
+Synthesereaktion					 - 
+Polyester							 - 
+Polyamide							 - 
+Monomere							 - 
+Thermoplasten						 - 
+Polyaddition						 - 
+Hydrolyse							 - 
+Polykondensation					 - 
+Thermolyse							 - 
+Fette								 - 
+cis-trans-Isomerie					 - 
+Benzen								 - 
+
+Q3:
+Edukte								 - 
+Produkte							 - 
+chemisches Gleichgewicht 			 - 
+Massenwirkungsgesetz				 - 
+Gleichgewichskonstante				 - 
+Kataysator							 - 
+Protolyse							 - 
+korrespondierende Säure-Base-Paare   - 
+pks-Wert							 - 
+Ionenprodukt						 - 
+Säure-Base-Indikatoren				 - 
+Titraton 							 - 
+einproonige Säure 					 - 
+Titrationskurve						 - 
+Äquvalenzpunkt						 - 
+Redoxpaar							 - 
+Oxiadtionszahl						 - 
+galvanisch Elemente					 - 
+elektrochemische Spannungsreihe 	 - 
+Puffersystem						 - 
